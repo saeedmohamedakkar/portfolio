@@ -6,18 +6,18 @@
 
  .dark{background-color:#2709ef}
 
- .dark:hover{cursor: pointer;}
+ .dark{cursor: pointer;}
 
- .htmlIcon:hover{cursor: pointer;color: red!important }
+ .htmlIcon{cursor: pointer;color: red!important }
 
- .Bootstrap:hover{cursor: pointer;color: #8706a0;}
+ .Bootstrap{cursor: pointer;color: #8706a0;}
 
- .jsIcon:hover{cursor: pointer;color: rgb(237, 237, 36);}
+ .jsIcon{cursor: pointer;color: rgb(237, 237, 36);}
  
-.reactIcon:hover{cursor: pointer;color: rgb(21, 144, 205);}
+.reactIcon{cursor: pointer;color: rgb(21, 144, 205);}
 
-.nextIcon:hover{cursor: pointer;}
+.nextIcon{cursor: pointer;}
 
-.skillsHover:hover{cursor: pointer;}
+.skillsHover{cursor: pointer;}
 
-.cssIcon:hover{cursor: pointer;color:blue}
+.cssIcon{cursor: pointer;color:blue}
