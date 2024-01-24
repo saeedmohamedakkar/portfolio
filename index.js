@@ -24,14 +24,12 @@ darkMode.addEventListener("click", () => {
     if (darkM == false) {
         document.body.style.backgroundColor = "#eaedf0"
         document.body.style.color = "#2a2d2f"
-        darkMode.innerHTML = `<div><i class="fa-regular fa-sun text-warning"></i> </div>`
+        darkMode.innerHTML = `<div><i class="fa-solid fa-sun text-warning"></i> </div>`
     }
     else if (darkM == true) {
         document.body.style.backgroundColor = "black"
         document.body.style.color = "#bebebe"
-        darkMode.innerHTML = `<div><i class="fa-regular fa-moon text-secondary"></i> </div>`
+        darkMode.innerHTML = `<div><i class="fa-solid fa-moon"></i> </div>`
     }
 })
-
-
 
