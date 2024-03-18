@@ -12,7 +12,7 @@
 
  .Bootstrap{cursor: pointer;color: #8706a0;}
 
- .jsIcon{cursor: pointer;color: rgb(237, 237, 36);}
+ .jsIcon{cursor: pointer;color: rgb(212, 212, 30)}
  
 .reactIcon{cursor: pointer;color: rgb(21, 144, 205);}
 
@@ -21,3 +21,9 @@
 .skillsHover{cursor: pointer;}
 
 .cssIcon{cursor: pointer;color:blue}
+
+
+.reduxIcon {
+    fill: slategrey;cursor: pointer
+  }
+.jsxIcon{cursor: pointer}
