@@ -1,5 +1,44 @@
-.emailPhoneNumber{color: black!important; font-weight: bold;;}
+.emailPhoneNumber {
+    color: black !important;
+    font-weight: bold;
+    ;
+}
 
-.lastprojet{ display: flex; justify-content:start; width: 100%;}
+.lastprojet {
+    display: flex;
+    justify-content: start;
+    width: 100%;
+}
 
-.backToTopBtn{padding-bottom:  50px ;color: brown !important;}
+.backToTopBtn {
+    padding-bottom: 50px;
+    color: brown !important;
+}
+
+
+
+.videoContainer {
+    width: 100%;
+    height: 50vh;
+    overflow: hidden;
+    position: relative;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+@media (max-width: 768px) {
+    .videoContainer {
+        height: 40vh;
+    }
+}
+
+@media (max-width: 480px) {
+    .videoContainer {
+        height: 30vh;
+    }
+}
