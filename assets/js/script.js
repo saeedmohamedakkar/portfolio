@@ -22,7 +22,7 @@ $(function() {
     // Highlight the top nav as scrolling occurs
     $('body').scrollspy({
         target: '.site-header',
-        offset: 80
+        offset: 150
     });
 
 	/* Progress bar */
